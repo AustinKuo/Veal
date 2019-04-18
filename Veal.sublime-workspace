@@ -1,0 +1,1142 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loc",
+				"locals〔function〕"
+			],
+			[
+				"data",
+				"date_today_str〔variable〕"
+			],
+			[
+				"input",
+				"input_csv_data〔variable〕"
+			],
+			[
+				"csv",
+				"csv_data"
+			],
+			[
+				"spar",
+				"spark.read"
+			],
+			[
+				"row",
+				"row_data〔argument〕"
+			],
+			[
+				"vis",
+				"visits_merge"
+			],
+			[
+				"input_csv",
+				"input_csv_files〔variable〕"
+			],
+			[
+				"ea",
+				"evarCSV"
+			],
+			[
+				"inpu",
+				"input_csv_file〔variable〕"
+			],
+			[
+				"file",
+				"file_prefix"
+			],
+			[
+				"data_",
+				"date_today"
+			],
+			[
+				"ori",
+				"ori_row_data"
+			],
+			[
+				"WEB",
+				"WEBLOG_ERROR"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"INDEX_ORI",
+				"INDEX_ORI_ROW_EVAR32"
+			],
+			[
+				"output",
+				"output_path"
+			],
+			[
+				"saveast",
+				"saveAsTextFile〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bin/module/veal_csv.py",
+			"settings":
+			{
+				"buffer_size": 777,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bin/sbx-lmd-s3-to-redshift-pyt.py",
+			"settings":
+			{
+				"buffer_size": 1639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bin/module/veal_convert.py",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"add ",
+				"Git: Add All"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"deff",
+				"Git: Diff Staged Files"
+			],
+			[
+				"add all",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git:",
+				"Git: Fetch"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"com",
+				"Git: Commit history"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"comi",
+				"Git: Commit history"
+			],
+			[
+				"conv",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"convert",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tran",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"View Package File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 389.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"install CodeIntel",
+			"CodeIntel"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ccs/Documents/Git/Veal/bin",
+		"/C/Users/ccs/Documents/Git/Veal/bin/module"
+	],
+	"file_history":
+	[
+		"/C/Users/ccs/Documents/Git/Veal/bin/sbx-lmd-s3-to-redshift-pyt.py",
+		"/C/Users/ccs/Documents/Git/Veal/bin/module/veal_convert.py",
+		"/C/Users/ccs/Documents/Git/Veal/bin/module/veal_csv.py",
+		"/C/Users/ccs/Documents/Git/Veal/Veal.sublime-project",
+		"/C/Users/ccs/Documents/Git/Weblog/weblog.sublime-project",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/sbx-lmd-s3-to-redshift-pyt.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/sbx-glue-cead-ohdh-proc.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/glueDemo.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_convert.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_csv.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_log.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_time.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblogStepFunctions.json",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/setup.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/noneed/weblogStepFunctionsWithNotify.json",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/noneed/WeblogGlueFileNotify.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/noneed/WeblogGlueErrorCheck.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/noneed/WeblogFileCheckTest.json",
+		"/C/Users/ccs/Documents/00_App/memo.txt",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/sbx-glue-cead-ohdh-spark.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblogProcess.py",
+		"/C/Users/ccs/Downloads/run-1552540615573-part-r-00000.msi",
+		"/C/Users/ccs/Downloads/run-1552530375948-part-r-00000.csv",
+		"/C/Users/ccs/Downloads/spark-2.3.2-bin-hadoop2.7.tgz",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/WeblogGlueFileNotify.py",
+		"/C/Users/ccs/Documents/Git/Weblog/.gitignore",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_module.egg-info/dependency_links.txt",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules.egg-info/PKG-INFO",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules.egg-info/SOURCES.txt",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/setup.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/WeblogGlueErrorCheck.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/csvExport.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/WeblogFileCheckTest.json",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/readS3Demo.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/pysparkDemo.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/gluePythonDemo.py",
+		"/C/Weblog/data/input/2019/03/15/raw_evar_data_20190315.csv",
+		"//Chiefs/HONDA/99_work/honda-pj-info/Koyo_Kaku_credentials.csv",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/zipFileDemo.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_process.py",
+		"/C/Users/ccs/AppData/Local/Temp/kaku_test-1.py",
+		"/C/Users/ccs/Downloads/aws-glue-weblog-test",
+		"/C/Users/ccs/Downloads/test2",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/test",
+		"/C/Users/ccs/.aws/credentials",
+		"/C/Users/ccs/.aws/config",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_file.py",
+		"//Chiefs/HONDA/99_work/honda-pj-info/aws-rdp-info.txt",
+		"/C/Python27/lib/site-packages/pyspark/sql/session.py",
+		"/C/Weblog/input_data/csv/evar_all_20190215.csv",
+		"/C/Users/ccs/Documents/Git/Weblog/.git/COMMIT_EDITMSG",
+		"/C/Users/ccs/Documents/Git/Weblog/weblog.sublime-workspace",
+		"//Chiefs/HONDA/10_検討事項/(B)_アジリティの高いBA基盤アーキテクチャ整備/(B)-2-1_タイ4Rコネクテッド対応/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_convert_data.py",
+		"/C/Users/ccs/Documents/10_受領資料/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_convert_data.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_s3.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_evar32.py",
+		"/C/Weblog/output_data/csv/evar32_type_20190215.csv",
+		"/C/Weblog/input_data/csv/eVar_test_data.csv",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_evar35.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_evar34.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_evar33.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/t4ct_s3.py",
+		"/C/Weblog/input_data/csv/changed/changed_eVar32_TYPE.csv",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/test.josn",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_convert_common.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_common.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_convert_data.py",
+		"//Chiefs/HONDA/10_検討事項/(B)_アジリティの高いBA基盤アーキテクチャ整備/(B)-2-1_タイ4Rコネクテッド対応/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_file.py",
+		"/C/Users/ccs/Documents/10_受領資料/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_csv.py",
+		"/C/Weblog/input_data/csv/eVar32_TYPE.csv",
+		"//Chiefs/HONDA/10_検討事項/(B)_アジリティの高いBA基盤アーキテクチャ整備/(B)-2-1_タイ4Rコネクテッド対応/データ処理用スクリプト＆サンプルデータ/data/t4ct/input_data/csv/2017/11/30/A727EDD34CD29D40876D6A72752C1B3A338065B016BABF71BA0FAC92C1218A0D_20171130.csv",
+		"/C/Weblog/input_data/csv/eVar33_COLOR.csv",
+		"/C/Weblog/output_data/csv/eVar32_TYPE.csv",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog.py",
+		"/C/Weblog/input_data/csv/client-ids.log",
+		"//Chiefs/HONDA/10_検討事項/(B)_アジリティの高いBA基盤アーキテクチャ整備/(B)-2-1_タイ4Rコネクテッド対応/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_s3.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/modules/weblog_zip.py",
+		"/C/Users/ccs/.codeintel/db/python/3b232ef2339e72d79427cfa26de874bd/path",
+		"/C/Users/ccs/.idlerc/recent-files.lst",
+		"/C/Users/ccs/.scala_history",
+		"/C/Users/ccs/.gitconfig",
+		"/C/Users/ccs/Documents/00_App/Hadoop-2.7.1-Windows-64-binaries-master/README.md",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/convert_data_step2.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/convert_data_step3.py",
+		"/C/Weblog/output_data/csv/eVar32_TYPE - コピー.csv",
+		"/C/Weblog/output_data/csv/eVar32_TYPE - コピー.bin",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/weblog_convert_data.py",
+		"/C/Users/ccs/Documents/Git/GuessNumber/GuessNumberUI.py",
+		"/C/Users/ccs/Documents/Git/GuessNumber/GuessNumberAlgorithm.py",
+		"/C/Users/ccs/Documents/Git/GuessNumber/GuessNumber.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/convert_data_step1.py",
+		"/C/Users/ccs/Documents/Git/Weblog/bin/create_html_by_folium.py",
+		"/C/Testdata/eVar32_TYPE.csv",
+		"/C/Users/ccs/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/C/Users/ccs/AppData/Roaming/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+		"/C/Users/ccs/Documents/Git/ProjectSample/inc/debug.h",
+		"/C/Users/ccs/Documents/Git/ProjectSample/filelist.mak",
+		"/C/Users/ccs/Documents/Git/ProjectSample/am335x/Makefile",
+		"/C/Users/ccs/Documents/Git/ProjectSample/x86/Makefile",
+		"/C/Users/ccs/Documents/Git/project-template/filelist.mak",
+		"/C/Users/ccs/Documents/Git/project-template/x86/Makefile",
+		"/C/Users/ccs/Documents/Git/project-template/src/main.c",
+		"/C/Users/ccs/Documents/Git/project-template/am335x/Makefile",
+		"/C/Users/ccs/Documents/00_App/Git/GuessNumber/GuessNumber.py",
+		"/C/Users/ccs/Documents/00_App/Git/GuessNumber/TkinterDemo.py",
+		"/C/Users/ccs/Documents/10_受領資料/tool/t4ct/bin/convert_data_step1.py",
+		"/C/Users/ccs/Documents/10_受領資料/tool/t4ct/bin/modules/t4ct_convert_data.py",
+		"/C/Users/ccs/Documents/10_受領資料/tool/t4ct/create_html_by_folium.py",
+		"/C/Users/ccs/Documents/10_受領資料/tool/t4ct/modules/t4ct_csv.py",
+		"/C/Users/ccs/Documents/10_受領資料/tool/t4ct/modules/t4ct_convert_data.py",
+		"//Chiefs/HONDA/40_資料授受履歴/20190115_転送資料一式/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_convert_data.py",
+		"//Chiefs/HONDA/40_資料授受履歴/20190115_転送資料一式/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/create_html_by_folium.py",
+		"//Chiefs/HONDA/40_資料授受履歴/20190115_転送資料一式/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/convert_data_step3.py",
+		"//Chiefs/HONDA/40_資料授受履歴/20190115_転送資料一式/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/convert_data_step2.py",
+		"//Chiefs/HONDA/40_資料授受履歴/20190115_転送資料一式/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/convert_data_step1.py",
+		"/C/Users/ccs/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/ccs/Documents/00_App/Sublime/packages/User/Package Control.sublime-settings",
+		"/C/Users/ccs/Documents/00_App/Sublime/packages/User/Preferences.sublime-settings",
+		"/C/Users/ccs/Documents/00_App/Sublime/packages/User/Default (Linux).sublime-keymap",
+		"/C/Users/ccs/Documents/00_App/Sublime/packages/User/JSON.sublime-settings",
+		"/C/Users/ccs/Documents/00_App/Sublime/packages/User/encoding_cache.json",
+		"/C/Users/ccs/Downloads/backup/packages/User/Package Control.last-run",
+		"/C/Users/ccs/Downloads/backup/packages/User/Package Control.sublime-settings",
+		"/C/Users/ccs/Documents/00_App/Sublime/packages/User/CTags.sublime-settings",
+		"/C/Users/ccs/Documents/00_App/Git/GuessNumber/.git/COMMIT_EDITMSG",
+		"//Chiefs/HONDA/40_資料授受履歴/20190115_転送資料一式/データ処理用スクリプト＆サンプルデータ/tool/t4ct/bin/modules/t4ct_convert_data.pyc",
+		"/C/Users/ccs/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ccs/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reload",
+			"write_csv_from_s3",
+			"getResolvedOptions",
+			"JST",
+			"weblog_evar_convert",
+			"_read_data_from_csv",
+			"_AWS_INPUT_BUCKET",
+			"remove",
+			"sys",
+			"getResolvedOptions",
+			"NameError",
+			"raise",
+			".$",
+			"boto3",
+			"client",
+			"Object",
+			"\\",
+			"result",
+			"weblog_hp",
+			"weblog_hp_convert",
+			"_separate_evar_value",
+			"weblog_evar_convert",
+			"weblog_evar",
+			"_separate_evar_value",
+			"result",
+			"_separate_evar_value",
+			"WEBLOG_KEY_EVAR_ALL",
+			"write_data_to_csv",
+			"weblog_evar",
+			"result",
+			"_separate_evar_value",
+			"weblog_evar",
+			"weblog_evar_convert",
+			"weblog_hp_convert",
+			"weblog_evar_convert",
+			"read_data_from_csv",
+			"read_csv_from_s3",
+			"read_data_from_csv",
+			"weblog_evar_convert",
+			"write_csv_fome_s3",
+			"weblog_evar",
+			"weblog_evar_convert",
+			"UserWarning",
+			"write_data_to_csv",
+			"get_file_name",
+			"read_data_from_csv",
+			"weblog_evar_convert",
+			"print ",
+			"except",
+			"weblog_evar_convert",
+			"weblog_hp_convert",
+			"read_data_from_csv",
+			"No car type and version data in",
+			"getResolvedOptions",
+			"visits",
+			"date_today_str",
+			"_separate_evar_value",
+			"weblog_evar",
+			"write_data_to_csv",
+			"write_csv_fome_s3",
+			"read_data_from_csv",
+			"input_csv_data",
+			"write_data_to_csv",
+			"write_csv_fome_s3",
+			"read_csv_from_s3",
+			"read_data_from_csv",
+			"weblog_evar_convert",
+			"Get eVar file fail",
+			"getResolvedOptions",
+			"get",
+			"namelist",
+			"WEBLOG_LOG",
+			"date_today",
+			"get_file_name",
+			"csv",
+			"reader",
+			"_AWS_BUCKET_NAME",
+			"read_csv_from_s3",
+			"read_data_from_csv",
+			"_FILE_PREFIX_EVARALL",
+			"Object",
+			"object",
+			"    object = s3.Object(bucket_name, file_key)\n",
+			"object",
+			"Object",
+			"object",
+			"Object",
+			"object",
+			"obj",
+			"read_data_from_csv",
+			"_AWS_BUCKET_NAME",
+			"_AWS_OUTPUT_PATH",
+			"_OUTPUT_CSV_PATH",
+			"write_data_to_csv",
+			"_FILE_PREFIX_URL",
+			"write_data_to_csv",
+			"_AWS_OUTPUT_PATH",
+			"_AWS_INPUT_FILE",
+			"write_csv_fome_s3",
+			"read_data_from_csv",
+			"_EVAR_FILE_PREFIX",
+			"read_csv_from_s3",
+			"read_data_from_csv",
+			"read_csv_from_s3",
+			"read_data_from_csv",
+			"file_prefix",
+			"read_data_from_csv",
+			"DEF_CSV_WRITE",
+			"_AWS_INPUT_FILE",
+			"read_csv_from_s3",
+			"evar_all",
+			"read_csv_from_s3",
+			"read_data_from_csv",
+			"read_csv_from_s3",
+			"write_data_to_csv",
+			"get_file_name",
+			"write_data_to_csv",
+			"_FILE_PREFIX_URL",
+			"write_data_to_csv",
+			"DEF_CSV_WRITE",
+			"write_csv_fome_s3",
+			"write_data_to_csv",
+			"write_csv_fome_s3",
+			"_FILE_PREFIX_EVAR35",
+			"weblog_evar_convert",
+			"read",
+			"read_csv_from_s3",
+			"URL_FILE_NAME"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"weblog",
+			"NUM_LENGTH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bin/module/veal_csv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bin/sbx-lmd-s3-to-redshift-pyt.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bin/module/veal_convert.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 133.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Veal.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\ccs\\Documents\\Git\\Weblog\\weblog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
